@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 I felt my Github does not tell much of my story, so check out my [Portfolio](https://anjalisrivastava29.github.io/).
+
+![Portfolio](demo.png)
+
 <!--
 **AnjaliSrivastava29/AnjaliSrivastava29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
